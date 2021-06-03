@@ -1,0 +1,202 @@
+body {
+  margin: 0;
+  width:100%;
+  font-family: Noto Sans KR;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+figure {
+    margin: 0 auto;
+    width: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanalei&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500&display=swap');
+
+@font-face {
+    font-family: 's-core_dream1_thin';
+    src: url('../fonts/scdream1.woff2') format('woff2'),
+         url('../fonts/scdream1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 's-core_dream2_extralight';
+    src: url('../fonts/scdream2.woff2') format('woff2'),
+         url('../fonts/scdream2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 's-core_dream3_light';
+    src: url('../fonts/scdream3.woff2') format('woff2'),
+         url('../fonts/scdream3.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 's-core_dream4_regular';
+    src: url('../fonts/scdream4.woff2') format('woff2'),
+         url('../fonts/scdream4.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 's-core_dream5_medium';
+    src: url('../fonts/scdream5.woff2') format('woff2'),
+         url('../fonts/scdream5.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 's-core_dream6_bold';
+    src: url('../fonts/scdream6.woff2') format('woff2'),
+         url('../fonts/scdream6.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 's-core_dream7_extrabold';
+    src: url('../fonts/scdream7.woff2') format('woff2'),
+         url('../fonts/scdream7.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 's-core_dream8_heavy';
+    src: url('../fonts/scdream8.woff2') format('woff2'),
+         url('../fonts/scdream8.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 's-core_dream9_black';
+    src: url('../fonts/scdream9.woff2') format('woff2'),
+         url('../fonts/scdream9.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'NotoSansCJKkr-Regular';
+    src: url('../fonts/NotoSansCJKkr-Regular.otf') format('OpenType');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'YaHei';
+    src:local("Microsoft YaHei");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'YaHei_WEB';
+    src:url('../fonts/chinese.msyh.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'x2';
+    src:url('../fonts/X2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NanumGothic';
+    src:url('../fonts/NanumGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NanumMyeongjo';
+    src:url('../fonts/NanumMyeongjo-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MalgunGothic';
+    src:url('../fonts/MalgunGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Batang';
+    src:local("Microsoft Batang");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SpoqaHanSansNeo';
+    src:local("Microsoft Batang");
+    src:url('../fonts/SpoqaHanSansNeo-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GyeonggiBatang';
+    src:url('../fonts/GyeonggiBatang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Pattaya';
+    src:url('../fonts/Pattaya-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NanumPenScript';
+    src:url('../fonts/NanumPenScript-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Teko';
+    src:url('../fonts/Teko-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+.TEXT_LEFT {
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+}
+.TEXT_CENTER {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.TEXT_RIGHT {
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+}
